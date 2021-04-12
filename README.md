@@ -7,8 +7,8 @@
 <h1 align="center">Hi, I'm Hadi Hassan</h1>
 <h3 align="center">A self-taught programmer seeking to develop  his mobile and web skills</h3>
 
-- 🔭 I’m currently working on **Social Fun**
-- 🌱 Currently I'm learning **Flutter and ExpressJs**
+- 🔭 I’m currently working on **My Portfolio**
+- 🌱 Currently I'm learning **More Laravel**
 - 👯 I’m looking to collaborate with **other content creators**
 - ⚡ Fun fact **I love to go swimming and play video games.**
 
