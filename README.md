@@ -40,5 +40,5 @@
 <a>
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadihassan09&show_icons=truee&theme=radical" alt="hadihassan09" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadihassan09&show_icons=truee&theme=radical&count_private=true" alt="hadihassan09" />
 </a>
