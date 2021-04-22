@@ -8,7 +8,7 @@
 <h3 align="center">A self-taught programmer seeking to develop  his mobile and web skills</h3>
 
 - 🔭 I’m currently working on **My Portfolio**
-- 🌱 Currently I'm learning **More Laravel**
+- 🌱 Currently I'm learning **Lumen Framework**
 - 👯 I’m looking to collaborate with **other content creators**
 - ⚡ Fun fact **I love to go swimming and play video games.**
 
